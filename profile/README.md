@@ -1,3 +1,3 @@
-This is the Github Ogranization of speedcubing.top
+This is the GitHub ogranization of speedcubing.top
 
 Website: https://speedcubing.top
